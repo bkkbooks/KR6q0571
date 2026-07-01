@@ -1,0 +1,383 @@
+canonical_identifier: bkk:krp/KR6q0571/v1
+canonical_location: https://kanripo.org/bkk/KR6q0571/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 白雲象林本真禪師語錄
+  identifiers:
+    alt_id:
+    - J39nB457
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J39/J39nB457.xml
+    old_id: J39nB457
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0571_000.yaml, hash: 'sha256:8cf020a21726755c79d64c206346c85bd71e13c64e7df05c72f8eda6bc060fe0'}
+  - {seq: 1, filename: KR6q0571_001.yaml, hash: 'sha256:0c0cb1c330d5fcba38e9da8e10670b2871fb947da6287e41798c76f7a3805cce'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0571_000.markers.yaml, hash: 'sha256:3e45b2d02456a4e0665cd9e82a52224f03dae8acf3fcc2fb5b7862901b030b3a'}
+  - {seq: 1, role: markers, filename: assets/KR6q0571_001.markers.yaml, hash: 'sha256:3e4e72819daf977eb8a8f8f99de669cea5987f1ecaebce02d7c0c46bca70efc1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0571_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 6525
+  label: 象林本真禪師語錄卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住蘄州紫雲山白雲禪寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-2
+    span:
+    - body
+    - 3909
+    - 3909
+  label: 拈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-3
+    span:
+    - body
+    - 3911
+    - 3911
+  label: 世尊初生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-4
+    span:
+    - body
+    - 3970
+    - 3970
+  label: 女子出定
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-5
+    span:
+    - body
+    - 4051
+    - 4051
+  label: 世尊拈花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-6
+    span:
+    - body
+    - 4120
+    - 4120
+  label: 殃崛救產難
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-7
+    span:
+    - body
+    - 4200
+    - 4200
+  label: 德山托缽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-8
+    span:
+    - body
+    - 4264
+    - 4264
+  label: 百丈野狐
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-9
+    span:
+    - body
+    - 4323
+    - 4323
+  label: 南泉斬貓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-10
+    span:
+    - body
+    - 4383
+    - 4383
+  label: 靈雲見桃花悟道因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-11
+    span:
+    - body
+    - 4461
+    - 4461
+  label: 偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-12
+    span:
+    - body
+    - 4462
+    - 4462
+  label: 與洗心水西堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-13
+    span:
+    - body
+    - 4496
+    - 4496
+  label: 贈秋浦和尚之李峰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-14
+    span:
+    - body
+    - 4532
+    - 4532
+  label: 訪雲衲明和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-15
+    span:
+    - body
+    - 4566
+    - 4566
+  label: 喜自覺和尚見訪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-16
+    span:
+    - body
+    - 4601
+    - 4601
+  label: 寄懷此藥和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-17
+    span:
+    - body
+    - 4635
+    - 4635
+  label: 示佛月照禪人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-18
+    span:
+    - body
+    - 4669
+    - 4669
+  label: 示竹菴趙居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-19
+    span:
+    - body
+    - 4703
+    - 4703
+  label: 贈含空和尚之東明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-20
+    span:
+    - body
+    - 4739
+    - 4739
+  label: 示惟一張文學
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-21
+    span:
+    - body
+    - 4773
+    - 4773
+  label: 贈雄山賀鎮臺任江浙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-22
+    span:
+    - body
+    - 4810
+    - 4810
+  label: 住金陵祈澤禪寺募田頤靈監院乞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-23
+    span:
+    - body
+    - 4852
+    - 4852
+  label: 發棹歸楚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-24
+    span:
+    - body
+    - 4884
+    - 4884
+  label: 遷居白雲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-25
+    span:
+    - body
+    - 4916
+    - 4916
+  label: 山居
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-26
+    span:
+    - body
+    - 4974
+    - 4974
+  label: 贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-27
+    span:
+    - body
+    - 5005
+    - 5005
+  label: 機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-28
+    span:
+    - body
+    - 5271
+    - 5271
+  label: 佛事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-29
+    span:
+    - body
+    - 5273
+    - 5273
+  label: 禮萬師翁塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-30
+    span:
+    - body
+    - 5323
+    - 5323
+  label: 禮銕老和尚塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-31
+    span:
+    - body
+    - 5413
+    - 5413
+  label: 禮虎丘隆祖塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-32
+    span:
+    - body
+    - 5447
+    - 5447
+  label: 禮三昧光和尚塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0571_J_001-mulu-33
+    span:
+    - body
+    - 5482
+    - 5482
+  label: 行實
+  type: mulu
+  level: 1
+hash: sha256:8d6708e8448a35617ec10f8a226b4bc1abc56e3d0159f53e745e0f83d3db270b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
