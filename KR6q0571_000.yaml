@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6q0571/j/v1/juan/0
 seq: 0
 front:
-  text: 序心印眼藏微妙大法幾千百載愈見闊盛始自文佛傳至達磨師師授受迄今象大師已七十代矣豈等閒哉師法紹芙蓉錫駐白雲一切上堂小參拈頌機緣言言越聖句句超凡單單鉗錘本分一味痛快指南誠人天慧鑑學者依端海內禪衆欲觀此録須得出回白汗方能體旨窮玄立身如未周正抬頭天地相懸更將情識量測則無有是處焉順治己亥歲佛歡喜日弟子妙心沐浴焚香稽首撰
-  hash: sha256:16a34535b98eff56b0a753a341da60e555651944ef7a48aeee28b3d847eaac33
+  text: 序心印眼藏微妙大法幾千百載愈見闊盛始自文佛傳至達磨師師授受迄今象大師已七十代矣豈等閒哉師法紹芙蓉錫駐白雲一切上堂小參拈頌機緣言言越聖句句超凡單單鉗錘本分一味痛快指南誠人天慧鑑學者依端海內禪眾欲觀此錄須得出回白汗方能體旨窮玄立身如未周正抬頭天地相懸更將情識量測則無有是處焉順治己亥歲佛歡喜日弟子妙心沐浴焚香稽首撰
+  hash: sha256:fa1e52fa2038ef3c5935dcf1188030fff500584b7338be4022728fd78884a788
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6q0571_J_000-mulu-1, level: '1'}
 body:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J39/J39nB457.xml
     old_id: J39nB457
-hash: sha256:8cf020a21726755c79d64c206346c85bd71e13c64e7df05c72f8eda6bc060fe0
+hash: sha256:ead80633155691e0f0acefadc8c77c2c57fc0416007a68f18b3d3917ffa25b64

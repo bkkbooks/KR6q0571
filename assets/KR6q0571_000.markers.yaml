@@ -34,9 +34,7 @@ markers:
   - {type: punctuation, offset: 87, content: ，, id: KR6q0571_J_000-bkkpn20}
   - {type: punctuation, offset: 91, content: 。, id: KR6q0571_J_000-bkkpn21}
   - {type: line-break, offset: 91, content: '', id: KR6q0571_J_000-0699a08, ed: J, 'n': 0699a08}
-  - {type: substitution, offset: 94, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 95, content: ，, id: KR6q0571_J_000-bkkpn22}
-  - {type: substitution, offset: 98, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 99, content: ，, id: KR6q0571_J_000-bkkpn23}
   - {type: punctuation, offset: 105, content: ，, id: KR6q0571_J_000-bkkpn24}
   - {type: line-break, offset: 106, content: '', id: KR6q0571_J_000-0699a09, ed: J, 'n': 0699a09}
@@ -67,4 +65,4 @@ markers:
   - {type: line-break, offset: 155, content: '', id: KR6q0571_J_000-0699b01, ed: J, 'n': 0699b01}
   body: []
   back: []
-hash: sha256:3e45b2d02456a4e0665cd9e82a52224f03dae8acf3fcc2fb5b7862901b030b3a
+hash: sha256:3530189c69f6dad6eaf3cc489df2822d272554d07584847831933c1fe538f9bf
