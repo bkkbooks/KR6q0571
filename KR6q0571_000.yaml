@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0571/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 序心印眼藏微妙大法幾千百載愈見闊盛始自文佛傳至達磨師師授受迄今象大師已七十代矣豈等間哉師法紹芙蓉錫駐白雲一切上堂小參拈頌機緣言言越聖句句超凡單單鉗錘本分一味痛快指南誠人天慧鑑學者依端海內禪衆欲觀此録須得出回白汗方能體旨窮玄立身如未周正抬頭天地相懸更將情識量測則無有是處焉順治己亥歲佛歡喜日弟子妙心沐浴焚香稽首撰
   hash: sha256:8bba04f006336b7d0fb2c926af53100fc939006d69df6d3ea83089b057a30639
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6q0571_J_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 白雲象林本真禪師語錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J39/J39nB457.xml
     old_id: J39nB457
-hash: sha256:51387febb574592617545667095e8d739ee2a18bfb574ce4eeaf24809b884407
+hash: sha256:9ab46768459e2fc6932f25b186e4c0fba02e6b1902b63c815391e1925a1a0a52
